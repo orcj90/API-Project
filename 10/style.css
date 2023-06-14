@@ -1,0 +1,25 @@
+*{
+    text-align: center;
+}
+#text{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15px;
+}
+
+#text #div{
+    width: 30%;
+    margin: 15px;
+    border: 1px solid black;
+}
+#btn{
+    margin: 15px;  
+}
+
+.hide{
+display: none;
+}
+
+.display{
+display: block;
+}
